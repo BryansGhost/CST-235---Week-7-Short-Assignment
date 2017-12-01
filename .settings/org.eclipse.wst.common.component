@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="Week 7 Benchmark - Bible Verse Application">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="Week_7_Benchmark_-_Bible_Verse_Application"/>
+        <property name="java-output-path" value="/Week 7 Benchmark - Bible Verse Application/build/classes"/>
+    </wb-module>
+</project-modules>
